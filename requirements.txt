@@ -1,3 +1,4 @@
 Django==4.2.6
 djangorestframework==3.14.0
 sqlite3==3.39.4
+djangorestframework-simplejwt==5.2.0  # For JWT authentication
