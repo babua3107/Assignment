@@ -18,16 +18,16 @@
 
 
 ## Installation  
-1. **Clone the Repository:**   
-   git clone repo url
-   install required package
-   cd Assignment-main  To Main folder
-   cd Assignment-main  To sub folder
-   python manage.py makemigrations  # To create migraton
-   python manage.py migrate #Migrate and create table in DB.
-   Python manage.py createsuperuser
-   python manage.py runserver to run
-   Generate Token Wih Post of username and Password
+1. **Clone the Repository:**
+2. git clone repo url
+3. install required package
+4. cd Assignment-main  To Main folder
+5. cd Assignment-main  To sub folder
+6. python manage.py makemigrations  # To create migraton
+7. python manage.py migrate #Migrate and create table in DB.
+8. Python manage.py createsuperuser
+9. python manage.py runserver to run
+10. Generate Token Wih Post of username and Password
 ## Test 
 
 - API Endpoints
